@@ -1,4 +1,4 @@
-﻿# JAVASCRIPT-Practice-Learning-Assignments
+﻿# JS
 
 lecture1: https://www.notion.so/Introduction-to-JavaScript-298ab6ff96f580908156ebd575c9816e?source=copy_link
 
@@ -17,5 +17,6 @@ DRIVE: https://drive.google.com/drive/folders/1i2-0HiqhErYq5H6wE5YbKDwoCoWoUv4f?
 GITHUB: https://github.com/hammadShamir/web-and-mobile-development-batch-no-08.git
 
 VIDEO: https://www.youtube.com/playlist?list=PL4vj_PyOrEyb4YAEIITgio8BByXEcZc1Q
+
 
 
