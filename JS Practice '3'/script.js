@@ -29,14 +29,15 @@ console.log(num1, num2);
 // 3. MINI PROJECT - USER INFO TYPEcaster.
 let Name = prompt("👤 What's Your Name?");  //Prompt is Always return in String  
 let Age = Number(prompt("🎂 What's Your Age?"));
-let isStudent = Boolean(prompt("🎓 Are You Student?"));
+let isStudent = Number(prompt("🎓 Are You Student? (Yes-Press: 1 ) (No-Press: 0 )"));
+let isStudent_convert = Boolean(isStudent);
 let f_number = Number(prompt("💫 What's Your Favorite Number? 1234etc"));
 let Nick = prompt("🏷️ What's Your Nick Name?");
 
 //        THIS PRINT BASIC WAY.
 // console.log("👤 Name:", Name, "-", typeof Name);
 // console.log("🎂 Age:", Age, "-", typeof Age);
-// console.log("🎓 Is Student:", isStudent, "-", typeof isStudent);
+// console.log("🎓 Is Student:", isStudent_convert, "-", typeof isStudent);
 // console.log("💫 Favorite Number:", f_number, "-", typeof f_number);
 // console.log("🏷️ Nickname:", Nick, "-", typeof Nick);
 
@@ -45,7 +46,7 @@ let Nick = prompt("🏷️ What's Your Nick Name?");
 const Store = {
     first: `👤 Name: ${Name} - ${typeof Name}`,
     second: `🎂 Age: ${Age} - ${typeof Age}`,
-    third: `🎓 Is Student: ${isStudent} - ${typeof isStudent}`,
+    third: `🎓 Is Student: ${isStudent_convert} - ${typeof isStudent_convert}`,
     forth: `💫 Favorite Number: ${f_number} - ${typeof f_number}`,
     fifth: `🏷️ Nickname: ${Nick} - ${typeof Nick}`
 };
