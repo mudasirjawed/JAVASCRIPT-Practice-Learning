@@ -21,7 +21,8 @@ let price1 = 1200;
 // Agar price > 1000 → 10% discount apply karenge
 // Ternary operator: condition ? valueIfTrue : valueIfFalse
 let finalPrice1 = price1 > 1000 ? price1 * 0.9 : price1; 
-// price1 * 0.9 → 90% of price → matlab 10% discount
+// price1 * 0.9 → 90% of price → matlab 10% discount 
+// Matlab: sirf un cheezon par discount milega jinki price 1000 se zyada ho. Minimum 101 price.
 // else price1 → discount nahi lagta
 
 console.log("1️⃣ Simple Ternary Discount Method");
