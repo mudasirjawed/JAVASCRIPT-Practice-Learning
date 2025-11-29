@@ -27,17 +27,50 @@ switch (day) {
   5. Default: 👈 Fall Back - agar uppar wale koi Case march na kare to ye chalega.
 */
 
-// 2. ( MULTIPLE CASES )------
+// 2. ( SWITCH WITH "MULTIPLE CASES" )------
 const color = "red";
 
 switch (color) {
   case "crimson":
   case "maroon":
   case "red":
-    console.log("This is a shade of Red.");  // this code execute.
+    console.log("This is a shade of Red.");    // this code execute.
     break;
   default:
     console.log("Unknown Other Color");
+}
+
+
+// 3. ( SWITCH WITH "EXPRESSION / CONDITION")----
+let age = 30;
+
+switch (true) {
+  case age < 13:
+    console.log("Child");
+    break;
+  case age < 20:
+    console.log("Teenager");
+    break;
+  default:
+    console.log("Adult");     // This Code Execute.
+
+}
+
+// 4. ( NESTED SWITCH )------
+const country = "pakistan";
+const language = "urdu";
+
+switch (country){
+  case "pakistan":
+    switch (language){
+      case "urdu":
+        console.log("hello, Pakistani");      // this code execute.
+        break;
+    }
+    break;
+    default:
+      console.log("Other Country!");
+      
 }
 
 
