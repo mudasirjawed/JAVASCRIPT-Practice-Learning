@@ -39,8 +39,8 @@ else {
             } else if (!choice) {
                 alert(`Empty WithDraw Input field ❌!`);
             } else if (balance >= choice) {
-                alert(`✅ WithDraw Successful Now Your Balance is: $${balance - choice}`);
-                document.write(`<h1>✅ WithDraw Successful Now Your Balance is: <u>$${balance - choice}</u></h1>`)
+                alert(`WithDraw Successful ✅ \n WithDraw Amount: ${choice} \n Now Your Balance is: $${balance - choice}`);
+                document.write(`<h1>WithDraw Successful ✅ <br> WithDraw Amount: ${choice} <br> Now Your Balance is: <u>$${balance - choice}</u></h1>`)
             } else {
                 alert(`❌ Insufficient funds!`);
             }
@@ -54,8 +54,8 @@ else {
             } else if (!choice) {
                 alert(`Deposit Input is Empty! ❌`);
             } else {
-                alert(`✅ Deposit Successful New Balance is: $${choice + balance}`);
-                document.write(`<h1>✅ Deposit Successful New Balance is: <u>$${choice + balance}</u></h1>`);
+                alert(`Deposit Successful ✅ \n Deposit Amount: ${choice} \n New Balance is: $${choice + balance}`);
+                document.write(`<h1>Deposit Successful ✅ <br>Deposit Amount: ${choice} <br> New Balance is: <u>$${choice + balance}</u></h1>`);
             }
             break;
         
