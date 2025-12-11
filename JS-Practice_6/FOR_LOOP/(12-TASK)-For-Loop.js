@@ -74,7 +74,7 @@ for (let count = 1; count <= 10; count++) {
 //============================================================
 
 let sum = 0;
-for (let w = 1; w <= 50; w++){
+for (let w = 1; w <= 50; w++) {
     sum = sum + w;
 }
 console.log(`Total Sum: ${sum}`);
@@ -95,7 +95,7 @@ for (let i = 0; i < str.length; i++) {
 let emoji_prompt = prompt("Enter any Emoji 😊 or Character to Repeat.");
 let count = Number(prompt(`How Many times Should "${emoji_prompt}" be Repeated?`));
 let emoji = "";
-for (let e = 1; e <= count; e++){
+for (let e = 1; e <= count; e++) {
     emoji += emoji_prompt;
 }
 console.log(`You Ask to Repeat ${count} Times. \n\n ${emoji}`);
@@ -106,7 +106,7 @@ alert(`You Ask to Repeat ${count} Times. \n\n ${emoji}`);
 //============================================================
 
 let emoji_ = "";
-for (var e = 1; e <= 5; e++){
+for (var e = 1; e <= 5; e++) {
     emoji_ += "😊 ";
 }
 console.log(`${e - 1} Times: ${emoji_}`);
@@ -116,7 +116,7 @@ console.log(`${e - 1} Times: ${emoji_}`);
 //============================================================
 
 let star = "";
-for (let si = 1; si <= 5; si++){
+for (let si = 1; si <= 5; si++) {
     star = star + "*";
     console.log(`${star}`);
 }
@@ -125,7 +125,7 @@ for (let si = 1; si <= 5; si++){
 // [ TASK: 1️⃣2️⃣ ] ( COUNT-DOWN ROcket Launch ). 🚀
 //============================================================
 
-for (let rocket = 10; rocket >= 1; rocket--){
+for (let rocket = 10; rocket >= 1; rocket--) {
     console.log(` ${rocket} `);
 }
 console.log(`🚀 Launch!`);
