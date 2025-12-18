@@ -7,9 +7,7 @@
 <b>Git Commands:</b> https://drive.google.com/drive/folders/1DVyeI_e6qlIQKbbWhXb3lr5HNL22CaFN
 <hr>
 <b>DeveloperHub Figma:</b> https://www.figma.com/design/8Igr4IzlG1bE1ko7gOyNQP/Ecommerce-Web-Design-(Community)?node-id=0-1&p=f&t=QT5UThoipDpabxME-0
-
-<br>
-
+<hr>
 <b>intership Pdf Task:</b>
 https://classroom.google.com/c/NzkyNTUyNjMxMDI2/a/NzkyNTU5NjI4OTUz/details https://classroom.google.com/c/NzkyNTUyNjMxMDI2/a/NzkyNTU5NjI4OTUz/details
 <hr>
