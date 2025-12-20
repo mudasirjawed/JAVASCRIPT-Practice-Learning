@@ -5,9 +5,16 @@ Me full 100% complete, aur bina kisi doubt ke [Your Topic] seekhna chahta hu. Aa
 2. Hamesha Roman Urdu me likho.
 3. Topic/Heading sirf English language me ho, correct aur proper full heading text ke saath.
 4. Har concept clearly explain karo.
-5. Code me unnecessary comments (// aur /**/) nahi lagao aur Maximum sirf 1 ek hi /**/ // use karo sabhi, saare texts likhne ke liye sirif ek multiline comment use karo. Saath hi actual working JavaScript code bhi include karo.
+5. Code me unnecessary comments (// aur /**/) nahi lagao aur Maximum sirf 1 ek hi /**/ // use karo sabhi, saare texts likhne ke liye sirif ek multiline comment use karo. for example:
+/*
+════════════════════════════════════════════════════════════════════════════
+2️⃣. (Main Topic Name here). [etc best styling]. 
+════════════════════════════════════════════════════════════════════════════
+ Here explaination, Code etc xyz.....
+*/
+aur Saath hi actual working JavaScript code bhi include karte jao samjhane ke liye.
 6. Headings aur topics ke liye comments me = use nahi karo, instead sirf ═ use karo.
-7. Main Heading, Topic ke liye number-wise 1️⃣2️⃣ use karo numbering consistent rakho.
+7. Main Heading, Topic ke liye number-wise 1️⃣2️⃣  use karo numbering consistent rakho.
 8. how many types?
 9. Where is it used in real life?
 10. What is the correct, Recommend, best practice way to write it?
