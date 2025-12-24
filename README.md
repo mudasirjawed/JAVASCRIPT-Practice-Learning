@@ -1,6 +1,6 @@
 ﻿# JS
 
-<b>GITHUB Source of Code/Links:</b> https://github.com/hammadShamir/web-and-mobile-development-batch-no-08.git
+<a href="https://github.com/hammadShamir/web-and-mobile-development-batch-no-08.git" target="_blank"><b>GITHUB Source of Code/Links:</b></a>
 
 <hr>
 <b>Class VIDEO:</b> https://www.youtube.com/playlist?list=PL4vj_PyOrEyb4YAEIITgio8BByXEcZc1Q
